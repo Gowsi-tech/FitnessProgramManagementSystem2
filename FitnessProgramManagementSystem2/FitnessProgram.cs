@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FitnessProgramManagementSystem2
+{
+    internal class FitnessProgram
+    {
+        public int FitnessProgramId;
+        public string Title;
+        public string Duration;
+        public decimal Price;
+    }
+}
